@@ -1,0 +1,18 @@
+body{
+    background-color:#91DDCF;
+}
+h1{
+    text-align: center;
+    background-color:#F19ED2;
+    color: #F7F9F2;
+}
+h2,h3,strong{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h2,h3{
+    background-color: #F19ED2;
+}
+p,ul,ol,li{
+    background-color: #E8C5E5;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
